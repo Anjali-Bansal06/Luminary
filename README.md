@@ -1,2 +1,2 @@
 # Luminary
-A e-learning platform
+An e-learning platform
